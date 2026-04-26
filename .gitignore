@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local or accidental files
+73146A20
